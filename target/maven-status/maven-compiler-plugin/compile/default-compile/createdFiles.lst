@@ -1,0 +1,14 @@
+xyg/app/queryData.class
+xyg/app/GetCurrentTime.class
+xyg/app/GetTicketInfo.class
+xyg/app/App.class
+xyg/app/getContract.class
+xyg/app/GetCIName.class
+xyg/app/CallBonitaProcess.class
+xyg/app/GetServerInfo.class
+xyg/app/muleRequest.class
+xyg/app/GetSnowInfo.class
+xyg/app/InsertData.class
+xyg/app/QueryMatchTable.class
+xyg/app/startworkflow.class
+xyg/app/GetAllProcess.class
